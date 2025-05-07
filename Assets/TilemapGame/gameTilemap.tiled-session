@@ -3,10 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Tilemap.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "Tilemap.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 86.25,
+                "y": -178.75
+            }
+        },
+        "Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tilesheet.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -18,9 +31,14 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "Tilemap.tmx",
+        "Tileset.tsx"
     ],
     "project": "gameTilemap.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
+        "Tileset.tsx",
+        "Tilemap.tmx",
         "Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
