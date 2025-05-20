@@ -10,10 +10,10 @@
     "fileStates": {
         "Tilemap.tmx": {
             "scale": 2,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 86.25,
-                "y": -178.75
+                "x": 157.25,
+                "y": -161
             }
         },
         "Tileset.tsx": {
@@ -35,7 +35,7 @@
         "Tileset.tsx"
     ],
     "project": "gameTilemap.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Tileset.tsx",
         "Tilemap.tmx",
