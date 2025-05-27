@@ -3,17 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tilemap.tmx",
+    "activeFile": "Tileset.tsx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
+        "Physics_Room.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 0,
+                "y": -0.5
+            }
+        },
         "Tilemap.tmx": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 157.25,
-                "y": -161
+                "x": 128,
+                "y": -259.25
             }
         },
         "Tileset.tsx": {
@@ -32,13 +40,15 @@
     "map.tileWidth": 16,
     "openFiles": [
         "Tilemap.tmx",
-        "Tileset.tsx"
+        "Tileset.tsx",
+        "Physics_Room.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Tileset.tsx",
         "Tilemap.tmx",
+        "Physics_Room.tmx",
+        "Tileset.tsx",
         "Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
